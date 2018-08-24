@@ -9,5 +9,6 @@
 </head>
 <body>
 <h2>1.jsp기능 추가합니다.</h2>
+<h2>1.jsp수정본입니다.</h2>
 </body>
 </html>
